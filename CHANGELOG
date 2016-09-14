@@ -1,0 +1,8 @@
+0.0.1
+Lauri Ojansivu <x@xet7.org>
+- Time calculation
+- Mongo database connect code
+- Making change to MongoDB database so that only small part of data
+  is changed at a time. Database is not loaded fully to memory because of
+  it's big size.
+- Code still in progress.
