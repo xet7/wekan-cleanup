@@ -1,0 +1,10 @@
+TODO
+
+- Cleanup code is not run even once yet, it's still work in progress.
+- Code is not run agains real data yet, so make sure
+  you have backups that you have tested that restoring also works.
+- When deleting archived cards, delete also card comments,
+  attachments etc.
+- Create tests
+- Delete Activities
+- Running cleanups regularly
