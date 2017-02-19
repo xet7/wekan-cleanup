@@ -1,6 +1,9 @@
 
 # Wekan cleanup
 
+2017-02-19: Please see newer [Wekan database cleanup script by fmonthel](https://github.com/fmonthel/wekan-cleanup)
+that is under active development. -- [Feedback](https://github.com/wekan/wekan/issues/833)
+
 From [Wekan forum post][wekan_forum_post]:
 
 > QUESTION: What is the command to delete all Archived cards from all boards that is order than 60days old.
